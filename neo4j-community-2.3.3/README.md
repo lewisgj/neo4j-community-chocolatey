@@ -15,7 +15,7 @@ http://neo4j.com/
 2. Install OpenJDK 8 or Oracle Java 8 http://neo4j.com/docs/stable/deployment-requirements.html#_software
 3. Install this package
 ```powershell
-choco install neo4j-community -version 2.3.0.20151026
+choco install neo4j-community -version 2.3.3
 ```
 4. Open a browser to http://localhost:7474
 
